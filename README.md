@@ -10,6 +10,14 @@ This repository contains solutions for the Computer Vision Engineer intern assig
 | Task 2 | Automated Quality Inspection (PCB Defects) | Complete |
 | Task 3 | Custom VLM Design for Industrial Inspection | Complete |
 
+## Demo Recordings
+
+### Task 1: Custom Object Detection
+![Task 1 Demo](demo_task1.gif)
+
+### Task 2: PCB Defect Detection
+![Task 2 Demo](demo_task2.gif)
+
 ---
 
 ## Task 1: Custom Object Detection with Model Training from Scratch
